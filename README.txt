@@ -1,1 +1,1 @@
-mg1 file load data jalankan di browser
+mg1 file load data initial 
